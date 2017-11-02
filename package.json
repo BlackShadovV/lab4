@@ -1,0 +1,22 @@
+{
+  "name": "lab4",
+  "version": "0.1.0",
+  "description": "my 4 lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackShadovV/lab4.git"
+  },
+  "author": "Badin V.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackShadovV/lab4/issues"
+  },
+  "homepage": "https://github.com/BlackShadovV/lab4#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
